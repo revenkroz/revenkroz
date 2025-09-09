@@ -13,6 +13,6 @@ Standalone projects:
 - [OBS plugin to render random text from list](https://github.com/revenkroz/obs-random-text)
 - [Browser plugin to save Twitch pastas and send them by click](https://github.com/revenkroz/twitch-pasta-save)
 
-Some of my pet-projects (closed source):
+Some of my small pet-projects with many active users (closed source):
 - [Movie and TV Shows news and schedule (rus, ukr)](https://epscape.com/)
 - [News tracker with clustering and summarization](https://vedamez.com/)
