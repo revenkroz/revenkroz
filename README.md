@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**revenkroz/revenkroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of my cool libs that I actively use:
+- [Go: Centralized command dispatch with middleware and validation](https://github.com/revenkroz/cr)
+- [Go: Tiny HTTP server that wraps the chi router to cut boilerplate](https://github.com/revenkroz/si)
 
-Here are some ideas to get you started:
+Tutorials/Examples/Templates:
+- [Simple and extremely fast React SSR application with backend-driven routing](https://github.com/revenkroz/vite-react-ssr-starter)
+- [How to render Vite-built Vue app in Go using V8](https://github.com/revenkroz/vite-ssr-golang-v8)
+- [Telegram Mini App Example](https://github.com/revenkroz/telegram-web-app-bot-example)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Standalone projects:
+- [OBS plugin to render random text from list](https://github.com/revenkroz/obs-random-text)
+- [Browser plugin to save Twitch pastas and send them by click](https://github.com/revenkroz/twitch-pasta-save)
+
+Some of my pet-projects (closed source):
+- [Movie and TV Shows news and schedule (rus, ukr)](https://epscape.com/)
+- [News tracker with clustering and summarization](https://vedamez.com/)
